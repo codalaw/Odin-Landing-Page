@@ -2,6 +2,9 @@
 
 A responsive landing page created as part of the [Odin Project](https://www.theodinproject.com/).  
 
+**Live View:**
+https://codalaw.github.io/Odin-Landing-Page/
+
 This project showcases a fictional legendary dog named **Tim 🐾** and includes:
 
 - **Hero Section**: Eye-catching introduction with a call-to-action button.
